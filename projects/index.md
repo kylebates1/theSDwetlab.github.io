@@ -10,4 +10,12 @@ image:
   thumb:
 ads: false
 ---
-Pages for each project can be created and posted here.
+These are the current projects Wet Lab members are working on:
+
+Genetic engineering of E. coli and algae
+Sequestration of heavy metals using biocalcification
+Genetic engineering of E. coli and algae
+Slime-mold and flatworm neuroscience
+Biosensors
+Immobilized algae in hydrogel for biotechechnology
+Hyperbaric photobioreactor
